@@ -1,2 +1,3 @@
 This is my first file.
-new line added today 
+new line added today
+This is the line added to new_feature before merging to master 
